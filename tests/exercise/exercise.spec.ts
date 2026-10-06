@@ -79,7 +79,7 @@ test.describe("Suite de pruebas - Login Tests", () => {
 
 
 //Click en los botones de la pagina
-test("Click on buttons page", async ({ page }) => {
+test("Click on buttons page v2", async ({ page }) => {
 
     await page.goto("https://demoqa.com/buttons");
 
